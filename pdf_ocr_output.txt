@@ -1,0 +1,869 @@
+Here is the extracted text content while maintaining the document structure and hierarchy:
+
+---
+
+**04/22/2024 WED 11:32 FAX**
+
+**001/028**
+
+# FAX TRANSMISSION
+
+**Better Life Multiple Sclerosis Center**
+
+3320 Montgomery Dr. Nashville, TN 37361
+
+**BetterLife**
+
+F 615-562-4820 P: 615-562-4848
+
+Dr. Asriel Han | Dr. Aetya Shan
+
+---
+
+**TO:**
+
+Golden Gate Infusion Center
+
+**Fax:** 614-225-3355 **Phone:** 614-295-7655
+
+**From:** Erran Rostami, BSN, RN
+
+**P:** 615-343-1176
+
+**F:** 615-343-1219
+
+---
+
+**Page**
+
+(including cover sheet)
+
+---
+
+**Comments:**
+
+- Arabic - spoken / English - written
+- Rituxen (Truxima) TP
+- MRI Reports
+- Hospital DIC Make
+- Demographics
+
+---
+
+The documents accompanying this transmission may contain health information that is legally protected. This information is intended only for the use of the individual or entity named above. The authorized recipient of this information is prohibited from disclosing this information to any other party unless permitted by law or regulation.
+
+If you are not the intended recipient, you are hereby notified that any use, disclosure, copying or distribution of these documents is strictly prohibited. If you have received this information in error, please notify the sender immediately and arrange for the return or destruction of these documents.
+
+---
+
+**05/22/2024 WED 11:32 FAX**
+
+**5/22/24, 11:10 AM**
+
+# Abdulla, Shakh
+
+**MRN: 041152153**
+
+**Communication** 5/16/2024
+
+**Provider:** Erfan Rostami, RN
+
+**Status:** Open
+
+**Reason for call:** Truxima Second Initial Dose Needed Week of June 3
+
+**Better Life Multiple Sclerosis**
+
+**Center**
+
+## All Conversations: Truxima Second Initial Dose Needed Week of June 3
+
+*(Newest Message First)*
+
+**May 21, 2024**
+
+**Jha, Vedant**
+
+to Erfan Rostami, RN
+
+**Hi Erfan**
+
+5/21/24 4:44 PM
+
+The only way Extraordinary Care could see his Medicaid plan would be at home if he is able to be seen at a hospital based infusion center closer to home?
+
+We will hold off on this one for now—let me know if you're not able to find a provider who can see him in the infusion suite and we will re-open the referral.
+
+**Vedant**
+
+Erfan Rostami, RN routed this conversation to Jha, Vedant
+
+5/21/24 2:32 PM
+
+**May 20, 2024**
+
+**Gu, Hao H, MD**
+
+to Erfan Rostami, RN
+
+**Note**
+
+5/20/24 5:13 PM
+
+**Hi**
+
+No home infusion
+
+Her first dose is scheduled may 23
+
+Second dose 2 weeks from may 23 first
+
+Erfan Rostami, RN routed this conversation to Gu, Hao H, MD
+
+5/20/24 3:41 PM
+
+Jha, Vedant to Erfan Rostami, RN
+
+**Hi**
+
+Is Dr. Gu comfortable with this patient being seen for home infusion?
+
+5/20/24 2:54 PM
+
+Thanks,
+
+---
+
+**05/22/2024 WED 11:33 FAX 5/22/24, 10:33 AM**
+
+**003/028**
+
+**Abdulla, Shakh (MR # 041152153) DOB: 04/01/2001**
+
+# Shakh Abdulla
+
+**Therapy Plan 1 Summary**
+
+MRN: 041152153 Description: male DOB: 4/1/2001
+
+## Patient Demographics
+
+| Patient Name | Legal | DOB | Address | Phone |
+| --- | --- | --- | --- | --- |
+| Abdulla, Shakh | Sex | 4/1/2001 | 425 Sherman Ave | 865-395-3958 (Home) |
+| | male | | | 865-395-0481 (Mobile) |
+| | | | Nashville TN 37995 | *Preferred* |
+
+## Medication
+
+Rituximab Or Biosimilar Days 1, 15 Load Then Once Every 24 Weeks
+
+## Associated Problems
+
+- **Problem**
+- **Selected Diagnosis**
+- Multiple sclerosis in pediatric patient (CMS/HCC) [G35]
+- Multiple sclerosis in pediatric patient (CMS/HCC) [G35]
+
+## Infusion Orders
+
+## All Current Orders
+
+| **Nursing Orders** | **Interval** | **Duration** | **Due** |
+| --- | --- | --- | --- |
+| ☑ IV access | Every visit | | Every visit |
+| Care Instructions: Obtain IV access (PIV, PORT, etc.) and start NS 0.9% @ KVO | | | |
+| Until discontinued Starting when released Until Specified | | | |
+| Last released: Never | | | |
+| Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM | | | |
+| ☑ Monitor pt for hypersensitivity reaction | Every visit | | Every visit |
+| Once Starting when released for 1 occurrence | | | |
+| If allergic reaction or infusion related reaction occurs, initiate adult hypersensitivity reaction protocol or pediatric guideline and CALL MD for additional orders. | | | |
+| Last released: Never | | | |
+| Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM | | | |
+| ☑ NURSING COMMUNICATION | Every visit | | Every visit |
+| Care Instructions: Ensure that patient has not taken antihypertensive medications in the 12 hours prior to infusion | | | |
+| Until discontinued Starting when released Until Specified | | | |
+| Last released: Never | | | |
+| Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM | | | |
+| ☑ NURSING COMMUNICATION | Every visit | | Every visit |
+| Care Instructions: For Hypotension, place patient in Trendelenberg position, support with NS, and call MD | | | |
+| Until discontinued Starting when released Until Specified | | | |
+
+---
+
+**05/22/2024 WED 11:33 FAX**
+
+**004/028**
+
+**5/22/24, 10:33 AM**
+
+**Abduia, Shakh (MR # 041152153) DOB: 04/01/2001**
+
+| | | |
+| --- | --- | --- |
+| Last released: Never | Interval | Duration |
+| | | Signed By: Gu, Hao MD on 5/15/2024 5:11 PM |
+| Labs | | |
+| IgG | | Every 24 weeks |
+| Clinic Collect, Blood | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| CBC w/ Differential | | Every visit |
+| Once Starting when released, Blood | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| Flow Lymphocytes Subsets (TBNK) | | Every visit |
+| Once Starting when released, Blood | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| Vitals | | |
+| Vital Signs | | Every visit |
+| Care Instructions: Obtain VS prior to start therapy, Q30 minutes with each dose increase and at the end of treatment. | | |
+| As needed Starting when released Until Specified | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 |
+| Hydration | | |
+| heparin, porcine (PF) 100 unit/mL syringe 5 | | PRN |
+| mL | | |
+| 5 mL, intraVENOUS, As needed, For flushing Ports/ PICC lines/ Central Lines IF NEEDED, Starting when released, Until Discontinued | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| Pre-Medications | | |
+| acetaminophen (TYLENOL) tablet 650 mg | | Every visit |
+| 650 mg, oral, Once, Starting when released | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| diphenhydramine (BENADRYL) 50 mg in 50 | | Every visit |
+| mL NS | | |
+| 50 mg, intraVENOUS, Once, Starting when released | | |
+| Administer 30 minutes before starting infusion. | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| methylprednisolone sod succinate (SOLU-Medrol) (20 mg/mL) 125 mg in NS 6.2 mL | | Every visit |
+
+---
+
+**05/22/2024 WED 11:33 FAX**
+
+**005/028**
+
+**5/22/24, 10:33 AM**
+
+**Abduinabi, Noor (MR # 048182163) DOB: 01/01/2008**
+
+| | | |
+| --- | --- | --- |
+| 125 mg, intraVENOUS, Once, Starting when released | | |
+| Administer 30 minutes before starting infusion. | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| Infusion Therapy | | |
+| ✔ NURSING COMMUNICATION | Every visit | Every visit |
+| Until discontinued Starting when released Until Specified | | |
+| Infusion rate (standard only) | | |
+| 1st infusion - initiate at 50mg/hr and if no infusion toxicity reaction, may increase by 50mg/hr ever 30 minutes; Max Rate 400mg/hr | | |
+| Subsequent infusions - initiate at 100mg/hr and if no infusion toxicity reaction, may increase by 100mg/hr every 30 min; Max Rate 400mg/hr | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| Infusion Therapy - Initial Dose | | |
+| ✔ riTUXimab-abbs (TRUXIMA) IVPB | Every 2 weeks | 2/2 remaining Week of 5/19/2024 |
+| 694 mg (rounded from 693.75 mg = 375 mg/m2 x 1.85 m2 - BSA might be out of date), intraVENOUS, Once, Starting 30 minutes after treatment start time | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| Infusion Therapy - Maintenance Dose | | |
+| ✔ riTUXimab-abbs (TRUXIMA) IVPB | Every 24 weeks | Mon 11/4/2024 |
+| Defer until: Mon 11/4/2024 | | |
+| 694 mg (rounded from 693.75 mg = 375 mg/m2 x 1.85 m2 - BSA might be out of date), intraVENOUS, Once, Starting when released | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| PRN Medications | | |
+| ✔ diphenhydramine (BENADRYL) injection 25 mg | PRN | PRN |
+| 25 mg, intraVENOUS, As needed, chills, Starting when released, for 2 doses | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| ✔ meperidine (DEMEROL) injection 25 mg | PRN | PRN |
+| 25 mg, intraVENOUS, As needed, rigors, Starting when released, for 2 doses | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+| ✔ ondansetron (ZOFRAN) injection 4 mg | PRN | PRN |
+| 4 mg, intraVENOUS, As needed, nausea, vomiting, Starting when released, for 2 doses | | |
+| Doses up to 4 mg may be administered undiluted. Inject over at least 30 seconds, but preferably over 2-5 minutes. | | |
+| Last released: Never | | Electronically Signed By: Gu, Hao H, MD on 5/15/2024 5:11 PM |
+
+---
+
+**eSignature Information**
+
+All order signatures are valid for 1 (one) year from the signature date.
+
+**Provider Contact Information**
+
+---
+
+**05/22/2024 WED 11:34 FAX**
+
+**5/22/24, 10:33 AM**
+
+**Abduinabi, Noor (MR # 048152153) DOB: 01/01/2008**
+
+Hao H Gu, MD (NPI: 1154611523)
+
+Better Life Multiple Sclerosis Center
+
+3320 Montgomery Dr NASHVILLE TN 37361
+
+614-936-0065
+
+---
+
+**05/22/2024 WED 11:34 FAX**
+
+**007/028**
+
+# Better Life
+
+Multiple Sclerosis
+
+Center
+
+**Patient:** Shakh Abdulta
+
+**Hospital A/C:**
+
+**Care Everywhere ID#:** VDJ-TKR2-484T-LGF8
+
+**ENCOUNTER**
+
+**Patient Class:**
+
+**Admission Date/Time:** 5/17/2024
+
+**Admission User:**
+
+**Admitting Provider:**
+
+**Attending Provider:**
+
+**Adm Diagnosis:**
+
+**MyHealth Bundle Status:**
+
+**PATIENT**
+
+**Name:** Shakh Abdulta
+
+**Address:** 425 Sherman Aves APT D
+
+**City:** A/ashvitie TN 37923
+
+**Primary Care Provider:** James David, PNP
+
+**Marital Status:** Single
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**Name:** Shakh Abdulta
+
+**Address:** 425 Sherman Aves APT D
+
+**City:** A/ashvitie TN 37923
+
+**Primary Care Provider:** James David, PNP
+
+**Marital Status:** Single
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**DEPENDENT**
+
+**Name Phone Work Phone**
+
+1. Sina, Amin
+
+2. Mohammedraza, Musiala
+
+Yes
+
+Yes
+
+Hume Phone
+
+Mother
+
+**GUARANTOR**
+
+**GUARANTOR**
+
+**GUARANTOR**
+
+**GUARANTOR**
+
+**GUARANTOR**
+
+**GUARANTOR EMPLOYER**
+
+**THERE IS NO GUARANTER INFORMATION ENTERED FOR THIS ENCOUNTER.**
+
+**THERE IS NO GUARANTER INFORMATION ENTERED FOR THIS ENCOUNTER.**
+
+**THERE IS NO**
+
+**TO**
+
+**DATE:** 10/29/1979
+
+**Sex:** Female
+
+**TO**
+
+**DATE:** 10/29/1979
+
+**Hume Phone:**
+
+**Mobile Phone:**
+
+**Work Phone:**
+
+**GUARANTOR EMPLOYER**
+
+**THERE IS NO GUARANTER INFORMATION ENTERED FOR THIS ENCOUNTER.**
+
+**TO**
+
+**STATE:** NOT EMPLO*
+
+**COVERAGE**
+
+**PRIMARY INSURANCE**
+
+**Payor:**
+
+**Group Number:**
+
+**Subscriber Name:**
+
+**Subscriber ID:**
+
+**Pat. Rel. to Subscriber:**
+
+**Plan:** TC BLUE CARE NO COPAY
+
+**Insurance Type:**
+
+**Subscriber DOB:**
+
+**Financial Class:**
+
+**PRIMARY INSURANCE**
+
+**Payor:**
+
+**Group Number:**
+
+**Subscriber Name:**
+
+**Subscriber ID:**
+
+**Pat. Rel. to Subscriber:**
+
+**Plan:**
+
+**Insurance Type:**
+
+**Subscriber DOB:**
+
+---
+
+**May 22, 2024 Hospital Face Sheet**
+
+---
+
+**05/22/2024 WED 11:34 FAX 5/22/24, 10:37 AM**
+
+**Abduinabi, Noor (MRN: 041152153) DOB: 4/1/2001**
+
+**Primary Coverage**
+
+| Payer | Plan | Sponsor Code | Group Number | Group Name |
+| --- | --- | --- | --- | --- |
+| BC TENNCARE | TC BLUE CARE NO COPAY | | 435000 | TENNCARE/BLUECARE |
+
+**Primary Subscriber**
+
+| ID | Name | SSN | Address |
+| --- | --- | --- | --- |
+| LAJM14345116 | ABDULLA, SHAKH | xxx-xx-8143 | 8327 BROADWAY LN |
+| | | | APT D |
+| | | | KNOXVILLE, TN 37923 |
+
+---
+
+**05/22/2024 WED 11:34 FAX**
+
+**009/028**
+
+**6/22/24, 10:39 AM**
+
+# Abdulla, Shakh
+
+**MRN: 048152153**
+
+## ED to Hosp-Admission
+
+**Last attending:** Harry, Tom, MD · with Treatment
+
+**5/14/2024 - 5/17/2024 (3 days)**
+
+**Status:** Discharged
+
+Monroe Carell Jr. Children's Hospital
+
+## Discharge Summary
+
+**Kaine, Adam Jason. MD (Resident Physician) · Pediatric Neurology**
+
+**Cosigned by:** Gu, Hao H, MD at 5/17/2024 1:56 PM
+
+Attestation signed by Gu, Hao H, MD at 5/17/2024 1:56 PM (Updated)
+
+I saw the patient on: 5/17/2024 with Dr Kaine, I discussed the care with Dr Kaine, patient and his father at bedside and agree with the findings and plan as documented in the attached note.
+
+I personally spent more than 30 minutes on the patient's care unit in the preparation and execution of the hospital discharge.
+
+**S/p 4 days of high dose IVMP (1g/dose) today:**
+
+- Discharge home with oral decadron 180mg (equivalent to 1000mg IVMP) x 1 to round out 5 days of high dose steroid treatment for active demyelinating lesion (family wishes to be discharged today instead of Saturday)
+- He will then start oral prednisone taper: Instructions provided +PPI
+- First dose of Rituximab or biosimilar scheduled for May 22 at 9am; second dose of first course of Rituximab within 2 weeks after, we are working with local infusion facility in Knoxville to get this set up for her moving forward to minimize travel
+- He will follow up with ophthalmologist in Knoxville
+- School note for this week and next week
+- PT/OT locally
+- Continue vitamin D
+- I will see her tentatively 3 months after completion of 1st course of Rituximab - with same day MRI (she does not need sedation)- looking at early or mid September. Will update family once we have that arranged
+
+Hao Gu MD
+
+## Neurology Discharge Summary
+
+**Patient Name:** Shakh Abdulla
+
+**DOB:** 4/1/2001
+
+**Service:** Pediatric Neurology
+
+**Attending:** Harry, Tom, MD
+
+**Date of Admission:** 5/14/2024
+
+**Date of Discharge:** 5/17/2024
+
+**Diagnosis:**
+
+**Principal Problem:**
+
+Abnormal MRI
+
+**Resolved Problems:**
+
+* No resolved hospital problems. *
+
+**Procedures:**
+
+**Bedside Procedures:**
+
+No orders of the defined types were placed in this encounter.
+
+**OR Procedures:**
+
+* Cannot find OR case *
+
+**Synopsis:**
+
+Shakh Abdulla is a 23 year old male who established care with VCH neurology; with MRI brain and spine demonstrating multiple lesions consistent with atypical pediatric MS.
+
+**Hospital Course:**
+
+Shakh Abdulla is a 23 year old male with history of optic neuritis and abnormal MRI brain concerning for MS who presented for admission following clinic visit and neuroimaging today. History from primary neurologist, clinic visit and patient and father at bedside. Patient referred to Dr. Gu by Dr. Fazal in East Bay. Confirms predominant symptoms since April of numbness in his right hand and urinary hesitancy/urgency. Additionally reporting right eye pain since time of clinic visit this morning. MRI brain and spine obtained following clinic visit and multiple lesions noted on brain and spine suggestive of pediatric MS. Presents for admission for IVMP.
+
+**Per clinic visit earlier today with Dr. Gu and confirmed with family at bedside:**
+
+Shakh is a 23 years old male, previously healthy who has been referred to neuroimmunology clinic for diagnosis of optic neuritis and abnormal brain MRI concerning for MS. He is referred by Dr Fazal-pediatric neurology in East Bay.
+
+He is here with dad; patient himself is an excellent historian and provided the following information- I do not have CSF results nor clinic note- I do have MRI report from Jan 21 2024 (no actual images)- with father and his permission, I reached out to Dr Shane- Dr Fazal's colleague on service who can help assist with quick access to Shakh's chart.
+
+Today, Shakh tells me that around early Oct 2023- he started to notice in right eye "neon bright color" fuzzy vision, and eye pain with movement and perhaps right side of his face in discomfort triggered by physical activities. Symptoms improved once he rested. By end of Oct 2023, he brought this up to parents and was brought to local eye doctor and recalled being told that "right eye being inflamed" and he recalled visual field deficits appreciated during exam.
+
+He was referred to UT ophthalmology Dr Derrek in Jan this year, per report negative MOG and AQP4 [While waiting on this appt, he thought some improvement but not back to baseline entirely - "not completely normal"].
+
+When he saw UT ophthalmology clinic, recommended brain and orbit and noted WM changes and MS was mentioned. He was treated with 5 days of IVMP and referred to see Dr Kosentka ped neurology.
+
+MRI report from Jan 21 2024- "Diffuse T2 hyperintensity and decreased volume throughout the right optic nerve is similar to prior examination however associated abnormal enhancement seen on prior study has resolved, presumably secondary to interveal treatment.
+
+Left optic nerve is subtle but diffusely small in caliber without significant change from last exam. Several intracranial WM lesions, stable from last"
+
+He saw Dr Fazal in Feb 2024-who obtained LP and had markers of MS and referred to MS clinic today. Below are information provided by Dr Shane. Per note recommended referral to our MS center for further evaluation and treatment.
+
+CSF ?WBC, 837 rbc, IgG Index 0.87 (elevated), +OCB
+
+Prior to appt today May 14- he noted that in April of this year, started to have involvement of LEFT eye again similar with "neon colors appearance", some eye discomfort; it happened several times during the day for a few days and has since resolved
+
+Since April he has had intermittent numbness in his right hand (dominant hand)+ along with muscle twitch in his hands and shoulder like tics
+
+He has noticed a change with urinary hesitancy- taking a long time to empty his bladder and in addition urinary urgency
+
+He has not noticed weakness but noted intermittent drifting to right side, bumping in to things
+
+He does note that at times when he laughs, bends his neck, does note electrical sensation
+
+Academically doing very well, no difficulty
+
+Sleeps well
+
+Family history: parents and brothers are healthy
+
+**Floor course (05/14 -**
+
+Patient was admitted to the wards in a stable condition.
+
+Patient was initiated on high dose steroids for 5 days and tolerated well. MRI consistent with lesions in the brain and spinal cord consistent with atypical MS. ANA was positive as well as SSB so rheumatology was consulted but felt she did not have evidence of another systemic autoimmune disease. PT/OT evaluated his and he will follow outpatient. He was dc with Decadron and then steroid taper with Pepcid prophylaxis. He was arranged to have outpatient rituximab and Dr. Gu will follow his in clinic.
+
+**Physical Exam:**
+
+Temp: [36.5 °C (97.7 °F)-36.7 °C (98.1 °F)] 36.7 °C (98 °F)
+
+Pulse: [81-99] 84
+
+Resp: [16-18] 16
+
+BP: (122-136)/(63-99) 126/63
+
+SpO2: [98 %] 98 %
+
+**Physical Exam:**
+
+Temp: [36.5 °C (97.7 °F)-36.7 °C (98.1 °F)] 36.7 °C (98 °F)
+
+Pulse: [81-99] 84
+
+Resp: [16-18] 16
+
+BP: (122-136)/(63-99) 126/63
+
+SpO2: [98 %] 98 %
+
+-Well appearing; NAD
+
+**CV:**
+
+-RRR
+
+**HIGHER INTEGRATIVE FUNCTIONS:**
+
+-Attention & concentration: Normal
+
+-Orientation: Oriented to person, place & time
+
+-Memory: Recent and remote memory intact
+
+-Language: Normal
+
+-Fund of Knowledge: Normal
+
+**CRANIAL NERVES:**
+
+-CN 2: Visual fields full
+
+-CN 2.3: PERRL; rAPD
+
+-CN 3,4,6: EOMI
+
+-CN 5: Facial sensation intact
+
+-CN 7: Facial strength/movement intact bilaterally
+
+-CN 8: Hearing normal bilaterally
+
+-CN 9,10: Palate elevates symmetrically
+
+-CN 11: Normal shoulder shrug and head turn
+
+-CN 12: Tongue protrudes midline
+
+**MOTOR:**
+
+-Muscle tone normal in upper and lower extremities
+
+-Muscle strength 5/5 in upper and lower extremities; RLE 4+ proximally
+
+**SENSATION:**
+
+-Intact to light touch in upper and lower extremities bilaterally
+
+**COORDINATION:**
+
+-Finger/nose intact bilaterally
+
+**GAIT:**
+
+-Normal gait
+
+**Immunizations/Injections Administered for This Admission**
+
+No immunizations on file.
+
+**Allergies:**
+
+No Known Allergies
+
+**Diagnostic Studies:**
+
+**Recent Results (from the past 24 hour(s))**
+
+**CBC w/ Differential**
+
+**Collection Time:** 05/14/24 10:47 AM
+
+| Result | Value | Ref Range |
+| --- | --- | --- |
+| White Blood Cells | 7.7 | 3.4 - 10.2 x10(3)/mcL |
+| Red Blood Cells | 4.63 | 3.80 - 5.50 x10(6)/mcL |
+| Hemoglobin | 13.0 | 12.0 - 16.0 gm/dL |
+| Hematocrit | 40 | 35 - 49 % |
+| Mean Cell Volume | 86 | 76 - 96 fL |
+| Mean Cell Hemoglobin | 28.1 | 25.0 - 35.0 pg |
+| Mean Cell Hemoglobin Concentration | 32.7 | 32.0 - 37.0 gm/dL |
+| RDW SD | 38.4 | 37.4 - 52.4 fL |
+| RDW CV | 12.3 | 11.1 - 14.3 % |
+| Platelet | 300 | 150 - 400 x10(3)/mcL |
+| Mean Platelet Volume | 10.0 | 9.3 - 12.8 fL |
+| Nucleated RBC | 0 | 0 - 0/100 |
+| WBC | | |
+| Nucieated RBC | 0.00 | 0.00 - 0.00 |
+| Abs | | |
+| x10(3)/mcL | | |
+| Auto Neutrophil | 4.52 | 1.80 - 7.70 x10(3)/mcL |
+| Absolute | | |
+
+**CMP**
+
+**Collection Time:** 05/14/24 10:47 AM
+
+| Result | Value | Ref Range |
+| --- | --- | --- |
+| Sodium Level | 139 | 138 - 145 mmol/L |
+| Potassium Level | 3.8 | 3.3 - 4.8 mmol/L |
+| Chloride Level | 101 | 98 - 107 mmol/L |
+| Carbon Dioxide | 22 | 17 - 28 mmol/L |
+| Anion Gap | 16 | mmol/L |
+| Glucose Level | 95 | 60 - 99 mg/dL |
+| Blood Urea | 13 | 7 - 18 mg/dL |
+| Creatinine Level | 0.67 | 0.50 - 0.90 mg/dL |
+| Calcium Level | 9.9 | 8.4 - 10.2 mg/dL |
+| Billrubin Total | 0.4 | 0.0 - 0.7 mg/dL |
+| Albumin Level | 4.7 | 4.0 - 5.3 gm/dL |
+| Protein Total | 8.4 (H) | 6.3 - 7.8 gm/dL |
+| Alkaline Phosphatase | 55 | 50 - 117 unit/L |
+| Aspartate Aminotransferase | 25 | 0 - 17 unit/L |
+| Alanine Aminotransferase | <6 | unit/L |
+
+**Hepatitis B Pnl**
+
+**Collection Time:** 05/14/24 10:47 AM
+
+| Result | Value | Ref Range |
+| --- | --- | --- |
+| Hepatitis B Surface Antigen | Negative | Negative |
+| Hep B Core Ab Total | Negative | Negative |
+| Hepatitis B Surface Ab Unit | 44.7 (H) | <=10.0 mlU/mL |
+| Hep Bs Ab Interp | Positive (A) | Negative |
+
+**IgG**
+
+**Collection Time:** 05/14/24 10:47 AM
+
+| Result | Value | Ref Range |
+| --- | --- | --- |
+| IgG Quantitative | 1,355 (H) | 600 - 1,310 mg/dL |
+
+**IgA**
+
+**Collection Time:** 05/14/24 10:47 AM
+
+| Result | Value | Ref Range |
+| --- | --- | --- |
+| IgA Quantitative | 279 | 40 - 290 mg/dL |
+
+**Auto Diff**
+
+**Collection Time:** 05/14/24 10:47 AM
+
+| Result | Value | Ref Range |
+| --- | --- | --- |
+| Neutrophils | 58.3 | % |
+| Absolute Neutrophils | 4.52 | 1.80 - 7.70 x10(3)/mcL |
+| Lymphs | 33.6 | % |
+| Absolute Lymphocytes | 2.60 | 1.70 - 4.50 x10(3)/mcL |
+| Monocytes | 6.5 | % |
+| Absolute Monocytes | 0.50 | 0.20 - 1.00 x10(3)/mcL |
+| Eosinophils | 0.5 | % |
+| Absolute Eosinophils | 0.04 | 0.00 - 0.50 x10(3)/mcL |
+| Basophils | 0.8 | % |
+| Absolute Basophils | 0.06 | 0.01 - 0.08 x10(3)/mcL |
+| Imm Gran | 0.3 | % |
+| Absolute Imm Gran Automated | 0.02 | 0.00 - 0.03 x10(3)/mcL |
+
+**Consultations Obtained:**
+
+**Orders Placed This Encounter**
+
+**Procedures**
+
+- Inpatient Consult to Pediatric Ophthalmology
+- Inpatient Consult to Pediatric Rheumatology
+- Inpatient consult to Case Management
+
+**Condition at Discharge:**
+
+Stable
+
+**Disposition:**
+
+Home or Self Care
+
+**Patient Instructions:**
+
+**Discharge Medications**
+
+**New Medications**
+
+**dexamethasone 4 mg/mL CONCENTRATED solution**
+
+**famotidine 40 mg tablet**
+
+**Commonly known as: PEPCID**
+
+**Sig**
+
+Take 45 mL (180 mg total) by mouth daily for 1 dose. See comment
+
+Take 1 tablet (40 mg total) by mouth daily.
+
+---
+
+**05/22/2024 WED 11:35 FAX**
+
+**014/028**
+
+**5/22/24, 10:39 AM**
+
+---
+
+**05/22/2024 WED 11:35 FAX**
+
+**015/028**
+
+**8/22/24, 10:39 AM**
+
+---
+
+<END OF DOCUMENT>
